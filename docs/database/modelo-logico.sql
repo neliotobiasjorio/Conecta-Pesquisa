@@ -1,0 +1,1 @@
+-- Modelo lógico inicial do banco de dados da Conecta Pesquisa.
